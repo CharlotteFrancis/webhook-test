@@ -1,2 +1,2 @@
 # webhook-test
-testing webhook payloads
+testing github webhook payloads
